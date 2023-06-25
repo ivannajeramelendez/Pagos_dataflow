@@ -1,0 +1,5 @@
+Fecha del Movimiento,Id de cliente, Membresia,Nombre de titular,Folio Interbancario,Fecha de aplicacion,Monto, Pago Aplicado,Observaciones
+20230104,65234,2264911900,IVAN NAJERA MELENDEZ, 65234 ,2023-06-01,50.0 Pago Aplicado: NO porque este pago ya fue aplicado anteriormente
+2022-05-15,60887,1066250200,PASCUAL GUERRERO COLMENERO, 65234 ,2023-06-01,50.0, NO, no se encontro ningun adeudo en dataflow
+2023-06-21,76704,2311462500,JUAN AMADO TLAPANCO, 65234 ,2023-06-01,50.0, NO, no se encontro ningun adeudo en dataflow
+2023-07-04,55637,2220084900,RICARDO CESAR MONTIEL VAZQUEZ, 65234 ,2023-06-01,50.0, NO, no se encontro ningun adeudo en dataflow
